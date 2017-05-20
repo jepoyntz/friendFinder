@@ -1,0 +1,83 @@
+
+var friendsArray = [{
+    "name":"Precious",
+  "photo":"http://4.bp.blogspot.com/--Scb4AQ_-kc/Tf8Di1ZoGCI/AAAAAAAAAuA/8M9c43Pxf6w/s1600/1160957_Ugliest-Woman-in-the-world_620.jpg",
+  "scores":[
+      5,
+      5,
+      4,
+      4,
+      5,
+      5,
+      2,
+      5,
+      4,
+      5
+    ]     
+  },
+  {
+    "name":"JabbaJr",
+  "photo":"https://tse1.mm.bing.net/th?id=OIP.mAEBqJim36RWXyRknS1hpgFhCw&pid=15.1&P=0&w=350&h=176",
+  "scores":[
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      5,
+      4,
+      1
+    ]     
+},
+{
+    "name":"NotChrisRock",
+  "photo":"https://tse2.mm.bing.net/th?id=OIP.r069WGEvDndc4picW8SLdQDWEs&pid=15.1&P=0&w=300&h=300",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]     
+},
+{
+    "name":"Princess",
+  "photo":"https://tse4.mm.bing.net/th?id=OIP.OZvEQTM2agMoA3qnnAv8YwEsDw&pid=15.1&P=0&w=196&h=158",
+  "scores":[
+      2,
+      2,
+      2,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]     
+},
+{
+    "name":"BigBob",
+  "photo":"http://listabuzz.com/wp-content/uploads/2013/10/ugly_people_5.jpg",
+  "scores":[
+      4,
+      4,
+      4,
+      4,
+      5,
+      4,
+      2,
+      5,
+      4,
+      4
+    ]     
+}];
+
+module.exports = friendsArray; 
